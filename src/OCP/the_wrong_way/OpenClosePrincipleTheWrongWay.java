@@ -1,4 +1,4 @@
-package OCP.the_wright_way;
+package OCP.the_wrong_way;
 
 import java.util.ArrayList;
 import java.util.List;
